@@ -16,7 +16,7 @@ h1 {
 }
 
 .hr { 
-	border : 3.2px dashed bisque;
+	border : 3.2px solid black;
 	border-radius: 10px;
 }
 
